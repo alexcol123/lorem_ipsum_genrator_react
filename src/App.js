@@ -28,6 +28,9 @@ function App() {
   return (
     <div className='container' onSubmit={handleSubmit}>
       <h2>lorem ipsum project setup?</h2>
+      <div>
+        <p>By Alexander Calderon</p>
+      </div>
       <form>
         <label>Paragraphs</label>
         <input
